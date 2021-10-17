@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+# App Link
+
+https://play.google.com/store/apps/details?id=ankit.vipul.learn_quickly
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
