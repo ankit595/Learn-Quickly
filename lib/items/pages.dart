@@ -147,7 +147,7 @@ class _contactmeState extends State<contactme> {
                             size: 26, color: Colors.indigo),
                         onPressed: () async {
                           const url = 'https://akanshit.000webhostapp.com/';
-                          if (await canLaunch(url)) {
+                          if (!await canLaunch(url)) {
                             await launch(url);
                           } else {
                             throw 'Could not launch $url';
@@ -170,7 +170,7 @@ class _contactmeState extends State<contactme> {
                         onPressed: () async {
                           const url =
                               'https://www.linkedin.com/in/ankit-kumar-ab5909190/';
-                          if (await canLaunch(url)) {
+                          if (!await canLaunch(url)) {
                             await launch(url);
                           } else {
                             throw 'Could not launch $url';
@@ -191,7 +191,7 @@ class _contactmeState extends State<contactme> {
                         ),
                         onPressed: () async {
                           const url = 'https://github.com/ankit595';
-                          if (await canLaunch(url)) {
+                          if (!await canLaunch(url)) {
                             await launch(url);
                           } else {
                             throw 'Could not launch $url';
@@ -222,7 +222,7 @@ class _contactmeState extends State<contactme> {
                         onPressed: () async {
                           const url =
                               'https://vipulportfolio.000webhostapp.com/';
-                          if (await canLaunch(url)) {
+                          if (!await canLaunch(url)) {
                             await launch(url);
                           } else {
                             throw 'Could not launch $url';
@@ -245,7 +245,7 @@ class _contactmeState extends State<contactme> {
                         onPressed: () async {
                           const url =
                               'https://www.linkedin.com/in/vipul-kumar-05759b1a7';
-                          if (await canLaunch(url)) {
+                          if (!await canLaunch(url)) {
                             await launch(url);
                           } else {
                             throw 'Could not launch $url';
@@ -266,7 +266,7 @@ class _contactmeState extends State<contactme> {
                         ),
                         onPressed: () async {
                           const url = 'https://github.com/Vipul208';
-                          if (await canLaunch(url)) {
+                          if (!await canLaunch(url)) {
                             await launch(url);
                           } else {
                             throw 'Could not launch $url';

@@ -11,7 +11,6 @@ class hydrogen extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -22,8 +21,8 @@ class hydrogen extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.purple[400],
                 child: Text(
                   """Atomic Radius :   53pm
@@ -58,7 +57,6 @@ class helium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -69,8 +67,8 @@ class helium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.grey[700],
                 child: Text(
                   """Atomic Radius :   31pm
@@ -105,7 +103,6 @@ class lithium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -116,8 +113,8 @@ class lithium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.deepOrange[700],
                 child: Text(
                   """Atomic Radius :   167pm
@@ -152,7 +149,6 @@ class berylium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -163,8 +159,8 @@ class berylium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.red[700],
                 child: Text(
                   """Atomic Radius :   112pm
@@ -199,7 +195,6 @@ class boron extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -210,8 +205,8 @@ class boron extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.blue[700],
                 child: Text(
                   """Atomic Radius :   87pm
@@ -246,7 +241,6 @@ class carbon extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -257,8 +251,8 @@ class carbon extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.yellow[700],
                 child: Text(
                   """Atomic Radius :   67pm
@@ -293,7 +287,6 @@ class nitrogen extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -304,8 +297,8 @@ class nitrogen extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.yellow[700],
                 child: Text(
                   """Atomic Radius :   56pm
@@ -340,7 +333,6 @@ class oxygen extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -351,8 +343,8 @@ class oxygen extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.yellow[700],
                 child: Text(
                   """Atomic Radius :   48pm
@@ -387,7 +379,6 @@ class fluorine extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -398,8 +389,8 @@ class fluorine extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.purple[700],
                 child: Text(
                   """Atomic Radius :   42pm
@@ -434,7 +425,6 @@ class neon extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -445,8 +435,8 @@ class neon extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.grey[700],
                 child: Text(
                   """Atomic Radius :   38pm
@@ -481,7 +471,6 @@ class sodium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -492,8 +481,8 @@ class sodium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.deepOrange[700],
                 child: Text(
                   """Atomic Radius :   190pm
@@ -528,7 +517,6 @@ class magnesium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -539,8 +527,8 @@ class magnesium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.red[700],
                 child: Text(
                   """Atomic Radius :   145pm
@@ -575,7 +563,6 @@ class aluminum extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -586,8 +573,8 @@ class aluminum extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   118pm
@@ -622,7 +609,6 @@ class silicon extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -633,8 +619,8 @@ class silicon extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.blue[700],
                 child: Text(
                   """Atomic Radius :   111pm
@@ -669,7 +655,6 @@ class phosphorus extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -680,8 +665,8 @@ class phosphorus extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.yellow[700],
                 child: Text(
                   """Atomic Radius :   98pm
@@ -716,7 +701,6 @@ class sulfur extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -727,8 +711,8 @@ class sulfur extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.yellow[700],
                 child: Text(
                   """Atomic Radius :   88pm
@@ -763,7 +747,6 @@ class chlorine extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -774,8 +757,8 @@ class chlorine extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.purple[700],
                 child: Text(
                   """Atomic Radius :   79pm
@@ -810,7 +793,6 @@ class argon extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -821,8 +803,8 @@ class argon extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.grey[700],
                 child: Text(
                   """Atomic Radius :   71pm
@@ -857,7 +839,6 @@ class potassium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -868,8 +849,8 @@ class potassium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.deepOrange[700],
                 child: Text(
                   """Atomic Radius :   243pm
@@ -904,7 +885,6 @@ class calcium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -915,8 +895,8 @@ class calcium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.red[700],
                 child: Text(
                   """Atomic Radius :   194pm
@@ -951,7 +931,6 @@ class scandium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -962,8 +941,8 @@ class scandium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   184pm
@@ -998,7 +977,6 @@ class titanium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1009,8 +987,8 @@ class titanium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   176pm
@@ -1045,7 +1023,6 @@ class vanadium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1056,8 +1033,8 @@ class vanadium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   171pm
@@ -1092,7 +1069,6 @@ class chromium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1103,8 +1079,8 @@ class chromium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   166pm
@@ -1139,7 +1115,6 @@ class manganese extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1150,8 +1125,8 @@ class manganese extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   112pm
@@ -1186,7 +1161,6 @@ class iron extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1197,8 +1171,8 @@ class iron extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   156pm
@@ -1233,7 +1207,6 @@ class cobalt extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1244,8 +1217,8 @@ class cobalt extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   152pm
@@ -1280,7 +1253,6 @@ class nickel extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1291,8 +1263,8 @@ class nickel extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   149pm
@@ -1327,7 +1299,6 @@ class copper extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1338,8 +1309,8 @@ class copper extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   145pm
@@ -1374,7 +1345,6 @@ class zinc extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1385,8 +1355,8 @@ class zinc extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   142pm
@@ -1421,7 +1391,6 @@ class gallium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1432,8 +1401,8 @@ class gallium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   136pm
@@ -1468,7 +1437,6 @@ class germanium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1479,8 +1447,8 @@ class germanium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.blue[700],
                 child: Text(
                   """Atomic Radius :   125pm
@@ -1515,7 +1483,6 @@ class arsenic extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1526,8 +1493,8 @@ class arsenic extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.blue[700],
                 child: Text(
                   """Atomic Radius :   114pm
@@ -1562,7 +1529,6 @@ class selenium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1573,8 +1539,8 @@ class selenium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.purple[700],
                 child: Text(
                   """Atomic Radius :   103pm
@@ -1609,7 +1575,6 @@ class bromine extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1620,8 +1585,8 @@ class bromine extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.purple[800],
                 child: Text(
                   """Atomic Radius :   94pm
@@ -1656,7 +1621,6 @@ class krypton extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1667,8 +1631,8 @@ class krypton extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.grey[700],
                 child: Text(
                   """Atomic Radius :   88pm
@@ -1703,7 +1667,6 @@ class rubidium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1714,8 +1677,8 @@ class rubidium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.deepOrange[700],
                 child: Text(
                   """Atomic Radius :   265pm
@@ -1750,7 +1713,6 @@ class strontium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1761,8 +1723,8 @@ class strontium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.red[700],
                 child: Text(
                   """Atomic Radius :   219pm
@@ -1797,7 +1759,6 @@ class yttrium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1808,8 +1769,8 @@ class yttrium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   212pm
@@ -1844,7 +1805,6 @@ class zirconium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1855,8 +1815,8 @@ class zirconium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   206pm
@@ -1891,7 +1851,6 @@ class niobium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1902,8 +1861,8 @@ class niobium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   198pm
@@ -1938,7 +1897,6 @@ class molybdenum extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1949,8 +1907,8 @@ class molybdenum extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   190pm
@@ -1985,7 +1943,6 @@ class technetium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -1996,8 +1953,8 @@ class technetium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   183pm
@@ -2032,7 +1989,6 @@ class ruthenium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2043,8 +1999,8 @@ class ruthenium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   178pm
@@ -2079,7 +2035,6 @@ class rhodium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2090,8 +2045,8 @@ class rhodium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   173pm
@@ -2126,7 +2081,6 @@ class palladium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2137,8 +2091,8 @@ class palladium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   169pm
@@ -2173,7 +2127,6 @@ class silver extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2184,8 +2137,8 @@ class silver extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   165pm
@@ -2220,7 +2173,6 @@ class cadmium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2231,8 +2183,8 @@ class cadmium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   161pm
@@ -2267,7 +2219,6 @@ class indium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2278,8 +2229,8 @@ class indium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   156pm
@@ -2314,7 +2265,6 @@ class tin extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2325,8 +2275,8 @@ class tin extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   145pm
@@ -2361,7 +2311,6 @@ class antimony extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2372,8 +2321,8 @@ class antimony extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.blue[700],
                 child: Text(
                   """Atomic Radius :   133pm
@@ -2408,7 +2357,6 @@ class tellurium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2419,8 +2367,8 @@ class tellurium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.blue[700],
                 child: Text(
                   """Atomic Radius :   123pm
@@ -2455,7 +2403,6 @@ class iodine extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2466,8 +2413,8 @@ class iodine extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.purple[800],
                 child: Text(
                   """Atomic Radius :   115pm
@@ -2502,7 +2449,6 @@ class xenon extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2513,8 +2459,8 @@ class xenon extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.grey[700],
                 child: Text(
                   """Atomic Radius :   108pm
@@ -2549,7 +2495,6 @@ class cesium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2560,8 +2505,8 @@ class cesium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.deepOrange[700],
                 child: Text(
                   """Atomic Radius :   298pm
@@ -2596,7 +2541,6 @@ class barium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2607,8 +2551,8 @@ class barium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.red[700],
                 child: Text(
                   """Atomic Radius :   253pm
@@ -2643,7 +2587,6 @@ class lanthanum extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2654,8 +2597,8 @@ class lanthanum extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -2690,7 +2633,6 @@ class cerium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2701,8 +2643,8 @@ class cerium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -2737,7 +2679,6 @@ class praseodymium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2748,8 +2689,8 @@ class praseodymium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   247pm
@@ -2784,7 +2725,6 @@ class neodymium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2795,8 +2735,8 @@ class neodymium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   206pm
@@ -2831,7 +2771,6 @@ class promethium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2842,8 +2781,8 @@ class promethium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   205pm
@@ -2888,8 +2827,8 @@ class samarium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   238pm
@@ -2924,7 +2863,6 @@ class europium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2935,8 +2873,8 @@ class europium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   231pm
@@ -2971,7 +2909,6 @@ class gadolinium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -2982,8 +2919,8 @@ class gadolinium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   233pm
@@ -3018,7 +2955,6 @@ class terbium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3029,8 +2965,8 @@ class terbium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   225pm
@@ -3065,7 +3001,6 @@ class dysprosium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3076,8 +3011,8 @@ class dysprosium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   228pm
@@ -3112,7 +3047,6 @@ class holmium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3123,8 +3057,8 @@ class holmium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   226pm
@@ -3159,7 +3093,6 @@ class erbium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3170,8 +3103,8 @@ class erbium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   226pm
@@ -3206,7 +3139,6 @@ class thulium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3217,8 +3149,8 @@ class thulium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   222pm
@@ -3253,7 +3185,6 @@ class ytterbium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3264,8 +3195,8 @@ class ytterbium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   222pm
@@ -3300,7 +3231,6 @@ class lutetium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3311,8 +3241,8 @@ class lutetium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.green[800],
                 child: Text(
                   """Atomic Radius :   217pm
@@ -3347,7 +3277,6 @@ class hafnium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3358,8 +3287,8 @@ class hafnium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   206pm
@@ -3394,7 +3323,6 @@ class tantalum extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3405,8 +3333,8 @@ class tantalum extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   200pm
@@ -3441,7 +3369,6 @@ class tungsten extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3452,8 +3379,8 @@ class tungsten extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   193pm
@@ -3488,7 +3415,6 @@ class rhenium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3499,8 +3425,8 @@ class rhenium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   188pm
@@ -3535,7 +3461,6 @@ class osmium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3546,8 +3471,8 @@ class osmium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   185pm
@@ -3582,7 +3507,6 @@ class iridium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3593,8 +3517,8 @@ class iridium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   180pm
@@ -3629,7 +3553,6 @@ class platinum extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3640,8 +3563,8 @@ class platinum extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   177pm
@@ -3676,7 +3599,6 @@ class gold extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3687,8 +3609,8 @@ class gold extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   174pm
@@ -3723,7 +3645,6 @@ class mercury extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3734,8 +3655,8 @@ class mercury extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   171pm
@@ -3770,7 +3691,6 @@ class thallium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3781,8 +3701,8 @@ class thallium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   156pm
@@ -3817,7 +3737,6 @@ class lead extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3828,8 +3747,8 @@ class lead extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   154pm
@@ -3864,7 +3783,6 @@ class bismuth extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3875,8 +3793,8 @@ class bismuth extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   143pm
@@ -3911,7 +3829,6 @@ class polonium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3922,8 +3839,8 @@ class polonium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.blue[700],
                 child: Text(
                   """Atomic Radius :   135pm
@@ -3958,7 +3875,6 @@ class astatine extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -3969,8 +3885,8 @@ class astatine extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.purple[800],
                 child: Text(
                   """Atomic Radius :   127pm
@@ -4005,7 +3921,6 @@ class radon extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4016,8 +3931,8 @@ class radon extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.grey[700],
                 child: Text(
                   """Atomic Radius :   120pm
@@ -4052,7 +3967,6 @@ class francium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4063,8 +3977,8 @@ class francium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.deepOrange[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4099,7 +4013,6 @@ class radium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4110,8 +4023,8 @@ class radium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.red[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4146,7 +4059,6 @@ class actinium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4157,8 +4069,8 @@ class actinium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4193,7 +4105,6 @@ class thorium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4204,8 +4115,8 @@ class thorium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4240,7 +4151,6 @@ class protactinium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4251,8 +4161,8 @@ class protactinium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4287,7 +4197,6 @@ class uranium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4298,8 +4207,8 @@ class uranium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4334,7 +4243,6 @@ class neptunium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4345,8 +4253,8 @@ class neptunium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4381,7 +4289,6 @@ class plutonium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4392,8 +4299,8 @@ class plutonium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4428,7 +4335,6 @@ class americium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4439,8 +4345,8 @@ class americium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4475,7 +4381,6 @@ class curium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4486,8 +4391,8 @@ class curium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4522,7 +4427,6 @@ class berkelium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4533,8 +4437,8 @@ class berkelium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4569,7 +4473,6 @@ class californium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4580,8 +4483,8 @@ class californium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4616,7 +4519,6 @@ class einsteinium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4627,8 +4529,8 @@ class einsteinium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4663,7 +4565,6 @@ class fermium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4674,8 +4575,8 @@ class fermium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4710,7 +4611,6 @@ class mendelevium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4721,8 +4621,8 @@ class mendelevium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4757,7 +4657,6 @@ class nobelium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4768,8 +4667,8 @@ class nobelium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4804,7 +4703,6 @@ class lawrencium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4815,8 +4713,8 @@ class lawrencium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.greenAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4851,7 +4749,6 @@ class rutherfordium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4862,8 +4759,8 @@ class rutherfordium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4898,7 +4795,6 @@ class dubnium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4909,8 +4805,8 @@ class dubnium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4945,7 +4841,6 @@ class seaborgium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -4956,8 +4851,8 @@ class seaborgium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -4992,7 +4887,6 @@ class bohrium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5003,8 +4897,8 @@ class bohrium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5039,7 +4933,6 @@ class hassium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5050,8 +4943,8 @@ class hassium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5086,7 +4979,6 @@ class meitnerium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5097,8 +4989,8 @@ class meitnerium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :  N/A
@@ -5133,7 +5025,6 @@ class darmstadtium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5144,8 +5035,8 @@ class darmstadtium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5180,7 +5071,6 @@ class roentgenium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5191,8 +5081,8 @@ class roentgenium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5227,7 +5117,6 @@ class copernicium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5238,8 +5127,8 @@ class copernicium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.pinkAccent[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5274,7 +5163,6 @@ class nihonium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5285,8 +5173,8 @@ class nihonium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5321,7 +5209,6 @@ class flerovium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5332,8 +5219,8 @@ class flerovium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5368,7 +5255,6 @@ class moscovium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5379,8 +5265,8 @@ class moscovium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5415,7 +5301,6 @@ class livermorium extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5426,8 +5311,8 @@ class livermorium extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.teal[700],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5462,7 +5347,6 @@ class tennessine extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5473,8 +5357,8 @@ class tennessine extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.purple[800],
                 child: Text(
                   """Atomic Radius :   N/A
@@ -5509,7 +5393,6 @@ class oganesson extends StatelessWidget {
           backgroundColor: Colors.amber[300],
         ),
         body: ListView(
-
           children: <Widget>[
             Container(
               child: Image(
@@ -5520,8 +5403,8 @@ class oganesson extends StatelessWidget {
             Center(
               child: Container(
                 alignment: Alignment.center,
-                width: 340,
-                height: 325,
+                width: MediaQuery.of(context).size.width * 0.9,
+                height: MediaQuery.of(context).size.height * 0.4,
                 color: Colors.grey[700],
                 child: Text(
                   """Atomic Radius :   N/A

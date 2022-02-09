@@ -7,6 +7,7 @@ class unit_1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Some Basic Concepts of Chemistry'),
       ),
       body: WebView(
@@ -21,6 +22,7 @@ class unit_2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Structure of The Atom'),
       ),
       body: WebView(
@@ -35,6 +37,7 @@ class unit_3 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Classification of Elements and Periodicity in Properties'),
       ),
       body: WebView(
@@ -49,6 +52,7 @@ class unit_4 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Chemical Bonding and Molecular Structure'),
       ),
       body: WebView(
@@ -63,6 +67,7 @@ class unit_5 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('States of Matter'),
       ),
       body: WebView(
@@ -77,6 +82,7 @@ class unit_6 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Thermodynamics'),
       ),
       body: WebView(
@@ -91,6 +97,7 @@ class unit_7 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Equilibrium'),
       ),
       body: WebView(
@@ -105,6 +112,7 @@ class unit_8 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Redox Reactions'),
       ),
       body: WebView(
@@ -119,6 +127,7 @@ class unit_9 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Hydrogen'),
       ),
       body: WebView(
@@ -133,6 +142,7 @@ class unit_10 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('The s-Block Elements'),
       ),
       body: WebView(
@@ -148,6 +158,7 @@ class unit_11 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('The p-Block Elements'),
       ),
       body: WebView(
@@ -162,6 +173,7 @@ class unit_12 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Organic Chemistry: Some Basic Principles and Techniques'),
       ),
       body: WebView(
@@ -176,6 +188,7 @@ class unit_13 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Hydrocarbons'),
       ),
       body: WebView(
@@ -190,6 +203,7 @@ class unit_14 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Environmental Chemistry'),
       ),
       body: WebView(

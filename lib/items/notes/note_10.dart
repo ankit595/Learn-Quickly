@@ -8,6 +8,7 @@ class unit_1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Chemical Reactions and Equations'),
       ),
       body: WebView(
@@ -22,6 +23,7 @@ class unit_2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Acids Bases and Salts'),
       ),
       body:WebView(
@@ -36,6 +38,7 @@ class unit_3 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Metals and Non-metals'),
       ),
       body: WebView(
@@ -50,6 +53,7 @@ class unit_4 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Carbon and its Compounds'),
       ),
       body: WebView(
@@ -64,6 +68,7 @@ class unit_5 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Periodic Classification of Elements'),
       ),
       body: WebView(
@@ -78,6 +83,7 @@ class unit_6 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Life Processes'),
       ),
       body: WebView(
@@ -92,6 +98,7 @@ class unit_7 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Control and Coordination'),
       ),
       body: WebView(
@@ -106,6 +113,7 @@ class unit_8 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('How do Organisms Reproduce'),
       ),
       body: WebView(
@@ -120,6 +128,7 @@ class unit_9 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Heredity and Evolution'),
       ),
       body: WebView(
@@ -134,6 +143,7 @@ class unit_10 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Light Reflection and Refraction'),
       ),
       body: WebView(
@@ -149,6 +159,7 @@ class unit_11 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Human Eye and Colourful World'),
       ),
       body: WebView(
@@ -163,6 +174,7 @@ class unit_12 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Electricity'),
       ),
       body: WebView(
@@ -177,6 +189,7 @@ class unit_13 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Magnetic Effects of Electric Current'),
       ),
       body: WebView(
@@ -191,6 +204,7 @@ class unit_14 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Sources of Energy'),
       ),
       body: WebView(
@@ -205,6 +219,7 @@ class unit_15 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Our Environment'),
       ),
       body: WebView(
@@ -219,6 +234,7 @@ class unit_16 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.amber[300],
         title: Text('Management of Natural Resources'),
       ),
       body: WebView(
