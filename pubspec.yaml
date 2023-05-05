@@ -1,4 +1,4 @@
-name: learn_quickly
+name: major_project
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -23,7 +23,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_launcher_icons: ^0.8.1
   flutter_linkify: ^4.0.2
   url_launcher: ^5.7.10
   material_design_icons_flutter: ^4.0.5755
@@ -40,8 +39,14 @@ dev_dependencies:
     sdk: flutter
   draggable_scrollbar: 0.0.4
   flutter_launcher_name: ^0.0.1
+  flutter_launcher_icons: ^0.8.0
 flutter_launcher_name:
-    name: "Learn Quickly!"
+  name: "Learn Quickly!"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png"
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -57,6 +62,10 @@ flutter:
   assets:
     - assets/
     - assets/img/
+    - assets/Named Reactions/
+    - assets/data/appratus.json
+    - assets/data/glossary.json
+    - assets/data/namedreactions.json
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
