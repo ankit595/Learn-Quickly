@@ -16,7 +16,7 @@ class _chemical_fState extends State<chemical_f> {
         'AgBF\u2084\nSilver tetrafluoroborate',
         'AgBr\nSilver bromide',
         'AgBrO\u2083\nSilver bromate',
-        'AlCl\nSilver chloride',
+        'AgCl\nSilver chloride',
         'AgCl\u2083Cu\u2082\nDicopper silver trichloride',
         'AgClO\u2083\nSilver chlorate',
         'AgClO\u2084\nSilver perchlorate',
@@ -41,7 +41,7 @@ class _chemical_fState extends State<chemical_f> {
         'Ag\u2082F\nSilver subfluoride',
         'Ag\u2082MoO\u2084\nSilver molydate',
         'Ag\u2082O\nSilver(I)oxide',
-        'Al\u2082S\nSilver sulfide',
+        'Ag\u2082S\nSilver sulfide',
         'Ag\u2082SO\u2084\nSilver sulfate',
         'Ag\u2082Se\nSilver selenide',
         'Ag\u2082SeO\u2083\nSilver selenite',
@@ -1718,7 +1718,12 @@ class _chemical_fState extends State<chemical_f> {
   Widget build(BuildContext context) {
         return Scaffold(
               appBar: AppBar(
-                    title: Text("Chemical Formula"),
+                leading: IconButton(
+                  icon: Icon(Icons.arrow_back, color: Colors.black),
+                  onPressed: () => Navigator.of(context).pop(),
+                ),
+                title: Text("Chemical Formula",
+                style: TextStyle(color: Colors.black),),
                 backgroundColor: Colors.amber[300],
               ),
               body: Column(

@@ -14,7 +14,12 @@ class _quick_rState extends State<quick_r> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Quick Reference"),
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
+        title: Text("Quick Reference",
+          style: TextStyle(color: Colors.black),),
         backgroundColor: Colors.amber[300],
       ),
       body: ListView(

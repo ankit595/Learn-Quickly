@@ -1,7 +1,8 @@
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
 import 'package:draggable_scrollbar/draggable_scrollbar.dart';
-import 'package:learn_quickly/items/elements.dart';
+import 'package:major_project/items/elements.dart';
+
 
 class periodic_t extends StatelessWidget {
   ScrollController _rrectController = ScrollController();
@@ -45,7 +46,15 @@ class periodic_t extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Periodic Table"),
+          leading: IconButton(
+            icon: Icon(Icons.arrow_back, color: Colors.black),
+            onPressed: () => Navigator.of(context).pop(),
+          ),
+          title: Text("Periodic Table",
+              style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontWeight: FontWeight.w500),),
           backgroundColor: Colors.amber[300],
         ),
         body: Center(
@@ -72,7 +81,7 @@ class periodic_t extends StatelessWidget {
                             MaterialPageRoute(
                                 builder: (context) => functions[index]),
                           );
-                        }, 
+                        },
                       ),
                       elevation: 5,
                     );
@@ -80,3 +89,8 @@ class periodic_t extends StatelessWidget {
         ));
   }
 }
+
+
+
+
+

@@ -14,90 +14,103 @@ class _contactState extends State<contact> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('About'),
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
+        title: Text('About',
+            style: TextStyle(color: Colors.black),),
         backgroundColor: Colors.amber[300],
       ),
-      body: ListView(
-        children: <Widget>[
-          Padding(
-            padding: const EdgeInsets.all(10),
-          ),
-          CircleAvatar(
-            child: Image(
-              image: AssetImage("assets/dsc.png"),
-            ),
-            radius: 65,
-            backgroundColor: Colors.white,
-          ),
-          Padding(padding: EdgeInsets.only(top: 10)),
-          Text("DSC REC Bijnor",
-              style: TextStyle(
-                fontSize: 23,
-                fontWeight: FontWeight.bold,
-              ),
-              textAlign: TextAlign.center),
-          Container(
-              padding: const EdgeInsets.all(10),
-              decoration: BoxDecoration(
-                border: Border.all(color: Colors.black, width: 3),
-                borderRadius: BorderRadius.circular(20),
-              ),
-              height: 330,
-              child: Column(children: <Widget>[
-                Text(
-                  "\"Between Thousand Yesterday's And A Million Tomorrow......There Is Only One Today So Don't Let It Go To Waste.\"",
-                  style: TextStyle(
-                      color: Colors.green[800],
-                      fontWeight: FontWeight.bold,
-                      wordSpacing: 2,
-                      letterSpacing: 1,
-                      fontStyle: FontStyle.italic,
-                      fontSize: 17),
-                  textAlign: TextAlign.center,
-                ),
-                Text(
-                  """\nThis Application is developed with a unique style only meant for the welfare of dear students. We hope that this application will be strength for them and it will serve their very purpose of attaining excellent results.\nWe are indebted to GOD for the shower of blessing. The suggestions with a view to enhance the utility of the application are always welcome.""",
-                  style: TextStyle(
-                      color: Colors.black87,
-                      fontWeight: FontWeight.w500,
-                      wordSpacing: 2,
-                      letterSpacing: 1,
-                      fontStyle: FontStyle.normal,
-                      fontSize: 17),
-                  textAlign: TextAlign.center,
-                ),
-                Text(
-                  "\n~Developer Team",
-                  style: TextStyle(
-                      fontSize: 17,
-                      color: Colors.red[800],
-                      fontWeight: FontWeight.w800),
-                  textAlign: TextAlign.right,
-                )
-              ])),
-          Card(
-            shape:
-                RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-            color: Colors.amber[200],
-            child: ListTile(
-                title: Text(
-                  'Developer Profile',
-                  style: TextStyle(
-                      fontWeight: FontWeight.bold,
-                      fontSize: 18,
-                      color: Colors.black),
-                ),
-                subtitle: Text("Click Here"),
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => contactme()),
-                  );
-                }),
-            elevation: 5,
-          )
-        ],
+      body: Center(
+        child: Text("Will be added!!!",
+        style: TextStyle(
+          color: Colors.red,
+          fontSize: 20,
+          fontWeight: FontWeight.w500
+        ),),
       ),
+      // body: ListView(
+      //   children: <Widget>[
+      //     Padding(
+      //       padding: const EdgeInsets.all(10),
+      //     ),
+      //     CircleAvatar(
+      //       child: Image(
+      //         image: AssetImage("assets/dsc.png"),
+      //       ),
+      //       radius: 65,
+      //       backgroundColor: Colors.white,
+      //     ),
+      //     Padding(padding: EdgeInsets.only(top: 10)),
+      //     Text("DSC REC Bijnor",
+      //         style: TextStyle(
+      //           fontSize: 23,
+      //           fontWeight: FontWeight.bold,
+      //         ),
+      //         textAlign: TextAlign.center),
+      //     Container(
+      //         padding: const EdgeInsets.all(10),
+      //         decoration: BoxDecoration(
+      //           border: Border.all(color: Colors.black, width: 3),
+      //           borderRadius: BorderRadius.circular(20),
+      //         ),
+      //         height: 330,
+      //         child: Column(children: <Widget>[
+      //           Text(
+      //             "\"Between Thousand Yesterday's And A Million Tomorrow......There Is Only One Today So Don't Let It Go To Waste.\"",
+      //             style: TextStyle(
+      //                 color: Colors.green[800],
+      //                 fontWeight: FontWeight.bold,
+      //                 wordSpacing: 2,
+      //                 letterSpacing: 1,
+      //                 fontStyle: FontStyle.italic,
+      //                 fontSize: 17),
+      //             textAlign: TextAlign.center,
+      //           ),
+      //           Text(
+      //             """\nThis Application is developed with a unique style only meant for the welfare of dear students. We hope that this application will be strength for them and it will serve their very purpose of attaining excellent results.\nWe are indebted to GOD for the shower of blessing. The suggestions with a view to enhance the utility of the application are always welcome.""",
+      //             style: TextStyle(
+      //                 color: Colors.black87,
+      //                 fontWeight: FontWeight.w500,
+      //                 wordSpacing: 2,
+      //                 letterSpacing: 1,
+      //                 fontStyle: FontStyle.normal,
+      //                 fontSize: 17),
+      //             textAlign: TextAlign.center,
+      //           ),
+      //           Text(
+      //             "\n~Developer Team",
+      //             style: TextStyle(
+      //                 fontSize: 17,
+      //                 color: Colors.red[800],
+      //                 fontWeight: FontWeight.w800),
+      //             textAlign: TextAlign.right,
+      //           )
+      //         ])),
+      //     Card(
+      //       shape:
+      //           RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+      //       color: Colors.amber[200],
+      //       child: ListTile(
+      //           title: Text(
+      //             'Developer Profile',
+      //             style: TextStyle(
+      //                 fontWeight: FontWeight.bold,
+      //                 fontSize: 18,
+      //                 color: Colors.black),
+      //           ),
+      //           subtitle: Text("Click Here"),
+      //           onTap: () {
+      //             Navigator.push(
+      //               context,
+      //               MaterialPageRoute(builder: (context) => contactme()),
+      //             );
+      //           }),
+      //       elevation: 5,
+      //     )
+      //   ],
+      // ),
     );
   }
 }

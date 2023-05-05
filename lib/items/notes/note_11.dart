@@ -7,8 +7,13 @@ class unit_1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Some Basic Concepts of Chemistry'),
+        title: Text('Some Basic Concepts of Chemistry',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/basic-concepts-chemistry-cbse-notes-class-11-chemistry/',
@@ -22,8 +27,13 @@ class unit_2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Structure of The Atom'),
+        title: Text('Structure of The Atom',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/structure-atom-cbse-notes-class-11-chemistry/',
@@ -37,8 +47,13 @@ class unit_3 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Classification of Elements and Periodicity in Properties'),
+        title: Text('Classification of Elements and Periodicity in Properties',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/classification-elements-periodicity-properties-cbse-notes-class-11-chemistry/',
@@ -52,8 +67,13 @@ class unit_4 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Chemical Bonding and Molecular Structure'),
+        title: Text('Chemical Bonding and Molecular Structure',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/chemical-bonding-molecular-structure-cbse-notes-class-11-chemistry/',
@@ -67,8 +87,13 @@ class unit_5 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('States of Matter'),
+        title: Text('States of Matter',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/states-matter-cbse-notes-class-11-chemistry/',
@@ -82,8 +107,13 @@ class unit_6 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Thermodynamics'),
+        title: Text('Thermodynamics',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/thermodynamics-cbse-notes-class-11-chemistry/',
@@ -97,8 +127,13 @@ class unit_7 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Equilibrium'),
+        title: Text('Equilibrium',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/equilibrium-cbse-notes-class-11-chemistry/',
@@ -112,8 +147,13 @@ class unit_8 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Redox Reactions'),
+        title: Text('Redox Reactions',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/redox-reactions-cbse-notes-class-11-chemistry/',
@@ -127,8 +167,13 @@ class unit_9 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Hydrogen'),
+        title: Text('Hydrogen',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/hydrogen-cbse-notes-class-11-chemistry/',
@@ -142,8 +187,13 @@ class unit_10 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('The s-Block Elements'),
+        title: Text('The s-Block Elements',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/s-block-elements-cbse-notes-class-11-chemistry/',
@@ -158,8 +208,13 @@ class unit_11 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('The p-Block Elements'),
+        title: Text('The p-Block Elements',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/p-block-elements-cbse-notes-class-11-chemistry/',
@@ -173,8 +228,13 @@ class unit_12 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Organic Chemistry: Some Basic Principles and Techniques'),
+        title: Text('Organic Chemistry: Some Basic Principles and Techniques',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/organic-chemistry-basic-principles-techniques-cbse-notes-class-11-chemistry/',
@@ -188,8 +248,13 @@ class unit_13 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Hydrocarbons'),
+        title: Text('Hydrocarbons',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/hydrocarbons-cbse-notes-class-11-chemistry/',
@@ -203,8 +268,13 @@ class unit_14 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.black),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         backgroundColor: Colors.amber[300],
-        title: Text('Environmental Chemistry'),
+        title: Text('Environmental Chemistry',
+          style: TextStyle(color: Colors.black),),
       ),
       body: WebView(
         initialUrl: 'https://www.learncbse.in/environmental-chemistry-cbse-notes-class-11-chemistry/',

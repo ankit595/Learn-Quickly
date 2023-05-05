@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:learn_quickly/homepage.dart';
+import 'package:major_project/homepage.dart';
 
-void main(){
+void main()async {
+
   runApp(MyApp());
 }
 
@@ -11,7 +12,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: true,
-      theme: ThemeData(primaryColor: Colors.amber[300]),
+      theme: ThemeData(primaryColor: Colors.amber[300],
+      backgroundColor: Colors.white),
       home: SplashScreen(),
     );
   }
@@ -74,12 +76,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Text("DSC REC Bijnor",
-                        style: TextStyle(
-                            color: Colors.white,
-                            fontSize: 20.0,
-                            fontWeight: FontWeight.bold
-                        ),)
+                      CircularProgressIndicator()
                     ],
                   )
               )
