@@ -1,0 +1,478 @@
+[
+  {
+    "name": "absolute zero",
+    "definition": "A theoretical condition concerning a system at the lowest limit of the thermodynamic temperature scale, or zero kelvins, at which the system does not emit or absorb energy (i.e. all atoms are at rest). By extrapolating the ideal gas law, the internationally agreed-upon value for absolute zero has been determined as −273.15 °C (−459.67 °F; 0.00 K)."
+  },
+  {
+    "name": "absorption",
+    "definition": "1.  The physical or chemical process by which a substance in one state becomes incorporated into and retained by another substance of a different state. Absorption differs from adsorption in that the first substance permeates the entire bulk of the second substance, rather than just adhering to the surface."
+  },
+  {
+    "name": "",
+    "definition": "2.  The process by which matter (typically electrons bound in atoms) takes up the energy of electromagnetic radiation and transforms it into any of various types of internal energy, such as thermal energy. This type of absorption is the principle on which spectrophotometry is based."
+  },
+  {
+    "name": "accuracy",
+    "definition": "How close a measured value is to the actual or true value. Compare precision."
+  },
+  {
+    "name": "achiral",
+    "definition": "(of a molecule) Having the geometric symmetry of being indistinguishable from its own mirror image; lacking chirality."
+  },
+  {
+    "name": "acid",
+    "definition": "A compound which, when dissolved in water, gives a pH of less than 7.0, or donates a hydrogen ion."
+  },
+  {
+    "name": "acid anhydride",
+    "definition": "Any chemical compound derived by the removal of water molecules from an acid. Contrast base anhydride."
+  },
+  {
+    "name": "acid dissociation constant (Ka)",
+    "definition": "Also acid ionization constant or acidity constant."
+  },
+  {
+    "name": "",
+    "definition": "A quantitative measure of the strength of an acid in solution expressed as an equilibrium constant for a chemical dissociation reaction in the context of acid-base reactions. It is often given as its base-10 cologarithm, pKa."
+  },
+  {
+    "name": "acid–base extraction",
+    "definition": "A compound which, when dissolved in water, gives a pH of less than 7.0, or donates a hydrogen ion."
+  },
+  {
+    "name": "actinides",
+    "definition": "Also actinoids."
+  },
+  {
+    "name": "",
+    "definition": "The periodic series of metallic elements with atomic numbers 89 to 103, from actinium through lawrencium."
+  },
+  {
+    "name": "activated complex",
+    "definition": "A structure that forms because of a collision between molecules while new bonds are formed."
+  },
+  {
+    "name": "activation energy",
+    "definition": "The minimum energy which must be available to a chemical system with potential reactants in order to result in a particular chemical reaction."
+  },
+  {
+    "name": "acyclic",
+    "definition": "Containing only linear structures of atoms (particularly in hydrocarbons)."
+  },
+  {
+    "name": "addition reaction",
+    "definition": "In organic chemistry, a type of chemical reaction in which two or more molecules combine to make a larger one."
+  },
+  {
+    "name": "adhesion",
+    "definition": "The tendency of dissimilar particles or surfaces to cling to one another as a result of intermolecular forces. Contrast cohesion."
+  },
+  {
+    "name": "adsorption",
+    "definition": "The chemical adhesion of atoms, ions, or molecules of one substance (either a gas, liquid, or dissolved solid) to the surface of another substance, resulting in a film of the first substance being weakly bonded to the interface between the two substances. Adsorption differs from absorption in that it is exclusively a surface phenomenon, while absorption involves entire volumes of materials."
+  },
+  {
+    "name": "aeration",
+    "definition": "The mixing of air into a liquid or a solid."
+  },
+  {
+    "name": "alcohol",
+    "definition": "Any organic compound consisting of at least one hydroxyl group attached to a saturated carbon atom."
+  },
+  {
+    "name": "aldehyde",
+    "definition": "A functional group and a class of organic compounds consisting of a carbonyl group attached to a hydrogen atom and any other R-group. Aldehydes have the general formula R–C(H)=O."
+  },
+  {
+    "name": "alkali metal",
+    "definition": "Any of the metallic elements belonging to Group 1 of the periodic table: lithium (Li), sodium (Na), potassium (K), rubidium (Rb), caesium (Cs), and francium (Fr)."
+  },
+  {
+    "name": "alkaline earth metal",
+    "definition": "Any of the metallic elements belonging to Group 2 of the periodic table: beryllium (Be), magnesium (Mg), calcium (Ca), strontium (Sr), barium (Ba), and radium (Ra)."
+  },
+  {
+    "name": "alkane",
+    "definition": "Also paraffin."
+  },
+  {
+    "name": "",
+    "definition": "Any fully saturated acyclic hydrocarbon, i.e. one in which all carbon–carbon bonds are single bonds."
+  },
+  {
+    "name": "alkene",
+    "definition": "Also olefin."
+  },
+  {
+    "name": "",
+    "definition": "Any unsaturated hydrocarbon containing at least one carbon–carbon double bond."
+  },
+  {
+    "name": "alkyl group",
+    "definition": "The substituent form of an alkane, i.e. any alkane missing a hydrogen atom. The term may be used to refer to many different functional groups, e.g. a methyl or ethyl group."
+  },
+  {
+    "name": "alkyne",
+    "definition": "Also acetylene."
+  },
+  {
+    "name": "",
+    "definition": "Any unsaturated hydrocarbon containing at least one carbon–carbon triple bond."
+  },
+  {
+    "name": "allomer",
+    "definition": "A substance that differs in chemical composition but has the same crystalline structure as another substance."
+  },
+  {
+    "name": "allotrope",
+    "definition": "Any of a variety of different structural forms of the same element, as with carbon, whose allotropes include diamonds, graphite, and fullerene."
+  },
+  {
+    "name": "alloy",
+    "definition": "A mixture of metals or of a metal and another element which in combination exhibit a metallic bonding character. Common examples include bronze, brass, and pewter."
+  },
+  {
+    "name": "amalgam",
+    "definition": "Any alloy of mercury with another metal."
+  },
+  {
+    "name": "ammoniacal",
+    "definition": "Describing a solution in which the solvent is aqueous ammonia.[1]"
+  },
+  {
+    "name": "amount of substance",
+    "definition": "Also enplethy, chemical amount, or simply amount."
+  },
+  {
+    "name": "",
+    "definition": "The number of discrete particles (such as molecules, atoms, ions, electrons, or any other atomic-scale entity) in a given sample of matter, divided by the Avogadro constant. The SI unit for amount of substance is the mole (mol)."
+  },
+  {
+    "name": "amphoteric",
+    "definition": "Also amphiprotic."
+  },
+  {
+    "name": "",
+    "definition": "(of a chemical species) Tending to behave both as an acid and as a base, depending upon the medium in which the species is situated; e.g. sulfuric acid (H2SO4) is a strong acid in water but behaves more like a base in superacids."
+  },
+  {
+    "name": "amphipathic",
+    "definition": "(of a molecule) Composed of both hydrophilic and hydrophobic groups; e.g. wetting agents and membrane lipids.[2]"
+  },
+  {
+    "name": "amyl",
+    "definition": "A common non-systematic name for a pentyl group."
+  },
+  {
+    "name": "analyte",
+    "definition": "The specific substance or chemical constituent that is of interest in a chemical analysis."
+  },
+  {
+    "name": "analytical chemistry",
+    "definition": "The branch of chemistry which studies and makes use of instruments and methods to separate, quantify, and identify chemical substances, both by classical wet chemistry techniques such as precipitation, extraction, distillation, and observational analysis, and by modern instrumental techniques such as chromatography, spectroscopy, and electrochemistry."
+  },
+  {
+    "name": "anhydrous",
+    "definition": "Having or containing no water molecules, referring especially to water of hydration.[2] Because many processes in chemistry are impeded in the presence of water, it is often of critical importance that water-free reagents and techniques are used. Anhydrous compounds tend to gradually absorb water from the atmosphere. Contrast hydrous."
+  },
+  {
+    "name": "anion",
+    "definition": "A negatively charged ion; i.e. an atom or molecule with a net negative electric charge caused by an excess of electrons compared to protons."
+  },
+  {
+    "name": "anode",
+    "definition": "1.  An electrode through which the conventional electric current (the flow of positive charges) enters into a polarized electrical circuit."
+  },
+  {
+    "name": "",
+    "definition": "2.  The wire or plate of an electrochemical cell having an excess positive charge. Negatively charged anions always move toward the anode. Contrast cathode."
+  },
+  {
+    "name": "aqua regia",
+    "definition": "A liquid mixture of nitric acid (HNO3) and hydrochloric acid (HCl), optimally in a molar ratio of 1:3, so named by historical alchemists because it is capable of dissolving the noble metals gold and platinum."
+  },
+  {
+    "name": "aquation",
+    "definition": "The process by which water molecules solvate or form coordination complexes with ions.[1]"
+  },
+  {
+    "name": "aqueous solution",
+    "definition": "A solution in which the solvent is water. It is denoted in chemical equations by appending (aq) to a chemical formula."
+  },
+  {
+    "name": "aromaticity",
+    "definition": "A chemical property of conjugated rings of atoms, such as benzene, which results in unusually high stability. Such rings are said to be aromatic."
+  },
+  {
+    "name": "aryl",
+    "definition": "Any functional group or substituent derived from an aromatic ring, such as phenyl or naphthyl. The symbol Ar is often used as a placeholder for a generic aryl group in structural diagrams."
+  },
+  {
+    "name": "atmolysis",
+    "definition": "The separation of a mixture of gases by exploiting their different rates of diffusion, usually by allowing the gases to diffuse through the walls of a porous partition or membrane.[1"
+  },
+  {
+    "name": "atom",
+    "definition": "A chemical element in its smallest form, made up of protons and neutrons within the nucleus and electrons circling the nucleus."
+  },
+  {
+    "name": "atomic mass",
+    "definition": "The mass of an atom, typically expressed in daltons and nearly equivalent to the mass number multiplied by one dalton."
+  },
+  {
+    "name": "atomic number (Z)",
+    "definition": "Also proton number."
+  },
+  {
+    "name": "",
+    "definition": "The number of protons found in the nucleus of an atom of a given chemical element. It is identical to the charge number of the nucleus and is used in the periodic table to uniquely identify each chemical element."
+  },
+  {
+    "name": "atomic orbital",
+    "definition": "Any region in which one or more electrons may be found in an individual atom (as opposed to that within a molecule)."
+  },
+  {
+    "name": "atomicity",
+    "definition": "The total number of atoms present in a single molecule of a given substance; e.g. ozone (O3) has an atomicity of 3, while benzene (C6H6) has an atomicity of 12.[1]"
+  },
+  {
+    "name": "autoignition temperature",
+    "definition": "Also kindling point."
+  },
+  {
+    "name": "",
+    "definition": "The lowest temperature at which a given substance will spontaneously ignite in a normal atmosphere without an external source of ignition such as a flame or spark, i.e. when the ambient temperature is sufficiently high to provide the activation energy needed for combustion. Substances which spontaneously ignite at naturally occurring temperatures are termed pyrophoric. Compare ignition temperature."
+  },
+  {
+    "name": "Avogadro constant (NA)",
+    "definition": "The ratio of the number of discrete constituent particles (such as molecules, atoms, or ions) to the amount of a substance, defined as exactly 6.02214076×1023 mol−1."
+  },
+  {
+    "name": "Avogadro number",
+    "definition": "The number of discrete constituent particles in one mole of a substance, defined as exactly 6.02214076×1023. This dimensionless number differs from the Avogadro constant in that it has no unit."
+  },
+  {
+    "name": "azeotrope",
+    "definition": "A mixture of liquids whose chemical composition is unchanged by distillation."
+  },
+  {
+    "name": "barometer",
+    "definition": "A device used to measure atmospheric pressure."
+  },
+  {
+    "name": "base",
+    "definition": "A substance that accepts a proton and has a pH above 7.0. A common example is sodium hydroxide (NaOH)."
+  },
+  {
+    "name": "beaker",
+    "definition": "A cylindrical vessel or container with a flat bottom, most commonly a type of glassware, widely used in laboratories for a variety of purposes, such as preparing, holding, containing, collecting, or volumetrically measuring chemicals, samples, or solutions, or as a chamber in which a chemical reaction occurs. Beakers are distinguished from flasks by having straight rather than sloping sides; most beakers also have a small spout in the rim to aid pouring."
+  },
+  {
+    "name": "boiling point",
+    "definition": "Also vaporization point."
+  },
+  {
+    "name": "",
+    "definition": "The temperature at which a substance changes state from a liquid to a gas (or vapor). It depends on pressure and is usually specified for a given substance under standard conditions."
+  },
+  {
+    "name": "boiling-point elevation",
+    "definition": "The process by which a substance's boiling point is elevated by adding another substance."
+  },
+  {
+    "name": "bond",
+    "definition": "Any persistent attraction between atoms, ions, or molecules that enables the formation of chemical compounds. Bonds are created as a result of a wide variety of electrochemical forces, whose strengths can vary considerably; they are broken when these forces are overcome by other forces. The types, strengths, and quantities of bonds holding together chemical substances dictate the structure and bulk properties of matter."
+  },
+  {
+    "name": "Boyle's law",
+    "definition": "For a given mass of gas at constant temperature, the volume varies inversely with the pressure."
+  },
+  {
+    "name": "buffered solution",
+    "definition": "Also simply called a buffer."
+  },
+  {
+    "name": "",
+    "definition": "An aqueous solution consisting of a weak acid and its conjugate base or a weak base and its conjugate acid that resists changes in pH when strong acids or bases are added."
+  },
+  {
+    "name": "burette",
+    "definition": "Also spelled buret."
+  },
+  {
+    "name": "",
+    "definition": "Glassware used to dispense specific amounts of liquid when precision is necessary (e.g. during titrations and resource-dependent reactions)."
+  },
+  {
+    "name": "calorific value",
+    "definition": "A measure of the heat per unit mass produced by complete combustion of a given substance, usually expressed in megajoules per kilogram (MJ/kg) or in kilojoules per gram (kJ/g).[1]"
+  },
+  {
+    "name": "calorimeter",
+    "definition": "Any of various devices used to measure thermal properties (i.e. heat), such as calorific values or heats of chemical reactions.[1]"
+  },
+  {
+    "name": "carbonyl",
+    "definition": "1.  A functional group composed of a carbon atom double-bonded to an oxygen atom, with the formula C=O"
+  },
+  {
+    "name": "",
+    "definition": ". Carbonyl groups are common to many classes of organic compounds and are also a part of many larger functional groups."
+  },
+  {
+    "name": "",
+    "definition": "2.  An inorganic or organometallic coordination complex with carbon monoxide as a ligand (e.g. a metal carbonyl)."
+  },
+  {
+    "name": "carboxylic acid",
+    "definition": "A class of organic acids and a functional group consisting of a carboxyl group attached to a substituent group. Carboxylic acids have the general formula R−COOH (also written as R−CO2H), where R can be an alkyl, alkenyl, aryl, or any other carbon-containing substituent."
+  },
+  {
+    "name": "catalyst",
+    "definition": "Any element or compound that facilitates an increase in the speed of a chemical reaction but which is not consumed or destroyed during the reaction. It is considered both a reactant and a product of the reaction."
+  },
+  {
+    "name": "cathode",
+    "definition": "An electrode from which the conventional electric current (the flow of positive charges) exits a polarized electrical circuit. Positively charged cations always move toward the cathode, though the cathode's polarity can be positive or negative depending on the type of electrical device and how it is being operated. Contrast anode."
+  },
+  {
+    "name": "cation",
+    "definition": "A positively charged ion."
+  },
+  {
+    "name": "Charles's law",
+    "definition": "When the pressure on a sample of a dry gas is held constant, the Kelvin temperature is directly proportional to its volume."
+  },
+  {
+    "name": "chemical law",
+    "definition": "A law of nature relevant to chemistry, such as the law of conservation of mass."
+  },
+  {
+    "name": "chemical process",
+    "definition": "1.  Any method or means of changing one or more chemicals or chemical compounds in any way, either naturally or artificially, spontaneously or by the actions of external forces."
+  },
+  {
+    "name": "",
+    "definition": "2.  In chemical engineering, any method used on an industrial scale (especially in manufacturing) to change the composition of one or more chemicals or materials."
+  },
+  {
+    "name": "chemical reaction",
+    "definition": "The change of one or more substances into one or more different substances."
+  },
+  {
+    "name": "chemical substance",
+    "definition": "Also pure substance or simply substance."
+  },
+  {
+    "name": "",
+    "definition": "A form of matter that has constant chemical composition and characteristic properties and which cannot be separated into simpler components by purely physical methods (i.e. without breaking chemical bonds). It is often called a pure substance to distinguish it from a mixture."
+  },
+  {
+    "name": "chemical synthesis",
+    "definition": "The artificial execution of one or more chemical reactions in order to obtain one or more products. In modern laboratory contexts, specific chemical syntheses are both reliable and reproducible."
+  },
+  {
+    "name": "chemistry",
+    "definition": "The scientific discipline that studies chemical substances, compounds, and molecules composed of atoms of various chemical elements, as well as their compositions, structures, properties, behaviors, and the changes they undergo during reactions with other substances."
+  },
+  {
+    "name": "cohesion",
+    "definition": "The tendency of similar particles or surfaces to cling to one another as a result of intermolecular forces. Contrast adhesion."
+  },
+  {
+    "name": "colligative property",
+    "definition": "Any property of a solution that depends upon the ratio of the number of solute particles to the number of solvent particles in the solution, and not on the nature of the chemical species present. Examples include osmotic pressure, freezing-point depression, and boiling-point elevation."
+  },
+  {
+    "name": "compound",
+    "definition": "A substance that is made up of two or more chemically bonded elements."
+  },
+  {
+    "name": "concentration",
+    "definition": "The quantity or abundance of a constituent of a mixture per unit quantity of the mixture; e.g. the amount of a dissolved solute per unit volume of the solution, a measure known as molarity. Several different definitions of concentration are widely used in chemistry, including mass concentration, volume concentration, and molar concentration."
+  },
+  {
+    "name": "conductor",
+    "definition": "Any object or material that allows the flow of an electric current in one or more directions. Contrast insulator."
+  },
+  {
+    "name": "conjugated system",
+    "definition": "A molecule that contains double or triple bonds separated by one single bond; e.g. the compound buta-1,3-diene, with the chemical structure H2C=CH−CH=CH2, has conjugated double bonds. In such molecules, there is some delocalization of electrons in the pi orbitals between the carbon atoms linked by the single bond.[1]"
+  },
+  {
+    "name": "corrosion",
+    "definition": "An irreversible interfacial chemical reaction of a material, especially a metal, with its environment, which results in consumption of the material or dissolution into the material of an external component of the environment."
+  },
+  {
+    "name": "covalent bond",
+    "definition": "Also molecular bond."
+  },
+  {
+    "name": "",
+    "definition": "A bond that involves the sharing of electron pairs between atoms. The stable balance of attractive and repulsive forces that occurs between atoms when they share electrons is known as covalent bonding."
+  },
+  {
+    "name": "critical point",
+    "definition": "The end point of a phase equilibrium curve or pressure-temperature curve at which conditions are such that phase boundaries vanish and a substance's different phases, such as liquid and vapor, can coexist. The critical point is defined by the intersection of a critical temperature, Tc, and a critical pressure, pc; above this temperature and pressure, all distinction between phases disappears and the substance becomes a supercritical fluid."
+  },
+  {
+    "name": "crystal",
+    "definition": "A solid whose constituent particles (such as atoms, ions, or molecules) are arranged in an orderly periodic microscopic structure, forming a lattice that extends in all directions. Such materials are often described as crystalline."
+  },
+  {
+    "name": "Dalton's law of partial pressures",
+    "definition": "An empirical law which states that in a mixture of non-reacting gases, the total pressure exerted by all of the gases combined is equal to the sum of the partial pressures exerted by each gas individually."
+  },
+  {
+    "name": "debye (D)",
+    "definition": "A non-SI unit of measurement of electric dipole moment, defined as 10−18 statcoulomb-centimetres. See also electric dipole moment."
+  },
+  {
+    "name": "density",
+    "definition": "An intensive property of a substance defined as mass per unit volume and expressed by the equation d = m/V."
+  },
+  {
+    "name": "diatomic",
+    "definition": "Composed of two atoms, of the same or different elements. Contrast monatomic and polyatomic."
+  },
+  {
+    "name": "diatomic molecule",
+    "definition": "Any molecule composed of only two atoms, of the same or different elements."
+  },
+  {
+    "name": "diffusion",
+    "definition": "The net movement of atoms or molecules from a region of higher concentration to a region of lower concentration. Diffusion is driven by a gradient in chemical potential of the diffusing species and depends on the random walk of particles; hence it results in mixing or mass transport without required directed bulk motion."
+  },
+  {
+    "name": "dipole",
+    "definition": "The electric or magnetic separation of electric charge into a pair of charges of equal magnitude but opposite sign, one positively charged and one negatively charged, separated by some typically small distance."
+  },
+  {
+    "name": "distillation",
+    "definition": "The process of separating the component substances of a liquid mixture by exploiting differences in the relative volatility of the mixture's components through selective boiling and subsequent condensation. The apparatus used to distill a substance is called a still, and the re-condensed substance yielded by the process is called the distillate."
+  },
+  {
+    "name": "ductility",
+    "definition": "Also malleability."
+  },
+  {
+    "name": "",
+    "definition": "A measure of a material's ability to undergo significant plastic deformation before rupturing, typically expressed as percent elongation or percent area reduction from a tensile test and popularly characterized by the material's ability to be stretched into a wire."
+  },
+  {
+    "name": "dystectic mixture",
+    "definition": "A mixture of two or more substances which has the highest melting point of all possible mixtures of these substances.[2] Contrast eutectic mixture."
+  },
+  {
+    "name": "electric charge",
+    "definition": "A measured property (coulombs) that determines electromagnetic interaction."
+  },
+  {
+    "name": "electric dipole moment",
+    "definition": "A measure of the separation of positive and negative electric charges within an electrical system, i.e. a measure of the system's overall electrical polarity. The SI unit for measuring electric dipole moment is the coulomb-meter (C⋅m), but the debye (D), a non-SI unit, is also widely used in chemistry and atomic physics."
+  },
+  {
+    "name": "electride",
+    "definition": "An ionic compound in which the anion is an electron."
+  }
+]

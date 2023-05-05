@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Appel Reaction",
+    "rxn": "assets/Named Reactions/Appel Rxn.png",
+    "details": "The Appel reaction is an organic reaction used to convert an alcohol to an alkyl halide using a tetrahalomethane and triphenylphosphine. The reaction begins with the halogenation of triphenyl-phosphine followed by the formation of the alkoxide from the alcohol starting material. The alkoxide subsequently attacks the phosphorous, releasing the halide leaving group. In a nucleophilic substitution reaction (SN2), the halide (nucleophile) attacks the carbon stereocenter resulting in the the final alkyl halide product with inverted stereochemistry. Triphenylphosphine oxide is a byproduct of this reaction and the formation of the strong P=O double bond is a driving force for this reaction",
+    "mechanism": "assets/Named Reactions/Appel Mech.png"
+  },
+  {
+    "name": "Baeyer-Villiger oxidation",
+    "rxn": "assets/Named Reactions/Baeyer Rxn.png",
+    "details": "The Baeyer-Villiger oxidation is an organic reaction used to convert a ketone to an ester using a peroxyacid (such as mCPBA). The reaction of the ketone with the acid results in a tetrahedral intermediate, with an alkyl migration following to release a carboxylic acid. The more electron rich R group migrates to the oxygen in this concerted process, allowing for accurate prediction of the stereochemistry of the product. Also known as: Baeyer-Villiger rearrangement.",
+    "mechanism": "assets/Named Reactions/Baeyer Mech.png"
+  },
+  {
+    "name": "Bartoli indole synthesis",
+    "rxn": "assets/Named Reactions/Bartoli Rxn.png",
+    "details": "The Bartoli indole synthesis is an organic reaction where a substituted nitroarene is converted to an indole using an excess of a vinyl Grignard reagent followed by an acid work-up. The substituents on the nitroarene affect the yield of this reaction where the highest yields are observed for ortho substituted reagents and the bulkier groups usually result in higher yields. The Bartoli indole synthesis mechanism begins with a series of attacks on the nitroarene regent by the Grigrand reagents and is then followed by a 3,3 sigmatropic rearrangement (Claisen) step which results in an aldehyde intermediate. The aldehyde is then quickly attacked by the nearby nitrogen intramolecularly and a subsequent attack by the third equivalent of the Grignard reagent restored aromaticity. A final acid work-up step affords the indole product.",
+    "mechanism": "assets/Named Reactions/Bartoli Mech.png"
+  }
+]

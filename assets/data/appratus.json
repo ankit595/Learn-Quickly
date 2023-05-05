@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Ring Stand",
+    "picture": "https://m.media-amazon.com/images/I/51PzLWQOaXL._SL1001_.jpg",
+    "use": "Supports the bunsen burner, iron ring, pipestem\ntriangle, and other items, often while heating a\nsubstance."
+  },
+  {
+    "name": "Pipestem Triangle",
+    "picture": "https://www.norchemist.com/wp-content/uploads/2020/10/IMG_5412-scaled.jpg",
+    "use": "Supports the crucible when being heated over an\nopen flame"
+  },
+  {
+    "name": "Evaporating Dish",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Abdampfschalen_verschiedene_Groessen.jpg",
+    "use": "Used to evaporate excess solvents to create a more\nconcentrated solution."
+  },
+  {
+    "name": "Test Tubes",
+    "picture": "https://images.sks-science.com/images/51012-100LRGt.jpg",
+    "use": "Holds small amounts of liquids for mixing or\nheating."
+  },
+  {
+    "name": "Beaker",
+    "picture": "https://m.media-amazon.com/images/I/41EKUkfWYEL.jpg",
+    "use": "Holding water (also used to heat liquids)"
+  },
+  {
+    "name": "Erlenmeyer Flask",
+    "picture": "https://www.microtechscientific.com/wp-content/uploads/2013/08/erlenmeyer-flasks.jpg",
+    "use": "Narrow-mouthed container used to transport, heat,\nor store substance. Often used when a stopper is\nrequired."
+  },
+  {
+    "name": "Volumetric Flask",
+    "picture": "https://labequipsupply.co.za/wp-content/uploads/2019/09/Volumetric-flasks.png",
+    "use": "Flask calibrated to contain a precise volume at a\nparticular temperature. Used for precise dilutions\nand creating standard solutions."
+  },
+  {
+    "name": "Watch glass",
+    "picture": "https://www.perthscientific.com.au/wp-content/uploads/2021/09/TECLW620701.jpg",
+    "use": "Keeping liquid contents in a beaker from splattering"
+  },
+  {
+    "name": "Mortar & Pestle",
+    "picture": "https://www.kambojtrader.com/wp-content/uploads/2023/01/mortar-pestle-image.webp",
+    "use": "Used to grind chemicals to powder"
+  },
+  {
+    "name": "Iron Ring",
+    "picture": "https://i.ebayimg.com/images/g/u~oAAOSweU5iPieh/s-l500.jpg",
+    "use": "Supports a beaker over a bunsen burner. Wire gauze is usually placed on top of this structure."
+  },
+  {
+    "name": "Utility Clamp",
+    "picture": "https://www.american-scientific.com/wp-content/uploads/2022/09/206206.jpg",
+    "use": "Used to hold a test tube or other piece of equipment in place on a ring stand."
+  },
+  {
+    "name": "Wire Gauze",
+    "picture": "https://www.american-scientific.com/wp-content/uploads/2022/09/221011.jpg",
+    "use": "Suspending glassware over the Bunsen burner"
+  },
+  {
+    "name": "Tongs",
+    "picture": "https://m.media-amazon.com/images/I/61l8cKgJyML._SL1500_.jpg",
+    "use": "Transport a hot beaker; remove lid from crucible."
+  },
+  {
+    "name": "Triple-Beam Balance",
+    "picture": "https://www.hiweigh.com/wp-content/uploads/2017/07/MB2610.jpg",
+    "use": "Obtaining the mass of an object"
+  },
+  {
+    "name": "Test Tube Clamp",
+    "picture": "https://4.imimg.com/data4/YQ/TI/MY-6934558/test-tube-clamp-500x500.jpg",
+    "use": "Heating contents in a test tube"
+  },
+  {
+    "name": "Bunsen Burner",
+    "picture": "https://static.connect2india.com/c2icd/company_resources/2974818/images/products/product-laboratory-bunsen-burner.jpg",
+    "use": "Bunsen burner Heating (flame-safe) contents in the lab"
+  },
+  {
+    "name": "Forceps",
+    "picture": "https://www.buerkle.de/shop/pinzette-edelstahl-spitz-gerade-form/image-thumb__1737__w1920/pinzette-edelstahl-spitz-gerade-form_00036716.webp",
+    "use": "Used in dissection to grasp tissues or pick up small\nitems."
+  },
+  {
+    "name": "File",
+    "picture": "https://www.american-scientific.com/wp-content/uploads/2022/09/208804.jpg",
+    "use": "Used to grind down materials or sharpen items."
+  },
+  {
+    "name": "Wire Brush",
+    "picture": "https://5.imimg.com/data5/NO/YB/EI/SELLER-12972674/test-tube-brush-500x500-500x500.jpg",
+    "use": "Used to clean the inside of test tubes or graduated\ncylinders"
+  },
+  {
+    "name": "Test Tube Rack",
+    "picture": "https://m.media-amazon.com/images/I/51H0gHRma3L.jpg",
+    "use": "Holding many test tubes filled with chemicals (or\nfor drying after washing)"
+  },
+  {
+    "name": "Funnel",
+    "picture": "https://m.media-amazon.com/images/I/41AexY0NZ1L._SL1000_.jpg",
+    "use": "Used to pour liquids into containers with small\nopenings; also used to hold filter paper"
+  },
+  {
+    "name": "Scoopula",
+    "picture": "https://www.sciencecompany.com/Assets/ProductImages/nc0829An-lg.jpg",
+    "use": "Scooping solids/powders."
+  },
+  {
+    "name": "Graduated Cylinder",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GraduatedCylinder.svg/1200px-GraduatedCylinder.svg.png",
+    "use": "Measuring specific amounts of liquids (65 mL)"
+  },
+  {
+    "name": "Spatula",
+    "picture": "https://www.buerkle.de/shop/loeffelspatel-edelstahl/image-thumb__1718__w1920/loeffelspatel-edelstahl_00036736.webp",
+    "use": "Measuring/removing small amounts of solids or\npowders (often when obtaining mass)"
+  },
+  {
+    "name": "Wash Bottle",
+    "picture": "https://img.fruugo.com/product/1/06/445974061_max.jpg",
+    "use": "Used to wash down specific pieces of equipment\nwith water or keep materials moist."
+  },
+  {
+    "name": "Micropipets",
+    "picture": "https://www.microlit.us/wp-content/uploads/2021/01/c-3-scaled.jpg",
+    "use": "Used to measure and dispence very small amounts\nof liquids. (ex. 0.5 mL)"
+  },
+  {
+    "name": "Buret",
+    "picture": "https://education-portal.com/cimages/multimages/16/burette_parts_titration.png",
+    "use": "Measuring specific amounts of liquids (often\ndetermining amounts of acids or bases needed) (ex.\n13 mL); releasing small amounts of acids or bases\ninto other solutions."
+  },
+  {
+    "name": "Dropper",
+    "picture": "https://m.media-amazon.com/images/I/61SbVMOdPmL._SL1500_.jpg",
+    "use": "Used to obtain small amounts of liquids (not\nprecise)"
+  },
+  {
+    "name": "Thermometer",
+    "picture": "https://www.globalspec.com/ImageRepository/LearnMore/20122/tg36014485b8280154c048f634ae7929187e0.png",
+    "use": "Used to measure temperature"
+  },
+  {
+    "name": "Pipet",
+    "picture": "https://m.media-amazon.com/images/I/51BqREaa17L.jpg",
+    "use": "Used to measure and dispense small amounts of\nliquids (ex. 1 mL)"
+  },
+  {
+    "name": "Well Plate",
+    "picture": "https://m.media-amazon.com/images/I/61dGshWGlJL.jpg",
+    "use": "Mixing very small amounts of chemicals together\nand comparing results."
+  },
+  {
+    "name": "Corks",
+    "picture": "https://www.shivsons.com/wp-content/uploads/2022/01/CH10735.jpg",
+    "use": "Used to seal or stop flasks or test tubes."
+  },
+  {
+    "name": "Hot Plate",
+    "picture": "https://www.shivsons.com/wp-content/uploads/2018/09/CH11168B_2-1-1.jpg",
+    "use": "Used for consistent heat; used to heat substances that may be flammable."
+  },
+  {
+    "name": "Florence Flask",
+    "picture": "https://5.imimg.com/data5/YU/MK/MY-10811958/500ml-florence-flask-500x500.jpg",
+    "use": "Flask with a round body and flat bottom. Used to\nhold and heat liquids."
+  }
+]
